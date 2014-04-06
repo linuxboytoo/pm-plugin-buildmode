@@ -6,7 +6,7 @@ version=0.0.1
 description=Plugin to turn off and on build and destroy mode
 author=linuxboytoo
 class=BuildMode
-apiversion=13
+apiversion=12,13
 */
 
 
